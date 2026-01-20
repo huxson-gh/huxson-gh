@@ -33,7 +33,9 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=huxson-gh&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huxson-gh&theme=radical&hide_border=false&include_all_commits=true&count_private=false" /><br/>
+</p>
 ![](https://nirzak-streak-stats.vercel.app/?user=huxson-gh&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=huxson-gh&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
