@@ -67,6 +67,11 @@
   </a>
 </div>
 
+<div align="center">
+[![Agniva’s GitHub stats](https://github-readme-stats.vercel.app/api?username=huxson-gh&theme=radical&show_icons=true&text_bold=false&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
 ---
 
 <div align="center">
