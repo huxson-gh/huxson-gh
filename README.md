@@ -6,11 +6,11 @@
 📫 How to reach me agnivab9@gmail.com<br>
 
 
-# 🌐 Connect with me:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agniva-bhattacharyya/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agnivab9@gmail.com) 
 
-# 💻 Languages and Tools:
+## 💻 Languages and Tools:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
@@ -32,9 +32,9 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
 
-### 🧠 Competitive Programming:
+## 🧠 Competitive Programming:
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=huxson-gh&theme=radical&hide_border=false&include_all_commits=true&count_private=false" /><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=huxson-gh&theme=radical&hide_border=false" /><br/>
