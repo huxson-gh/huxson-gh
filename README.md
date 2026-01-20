@@ -6,7 +6,7 @@
 📫 How to reach me agnivab9@gmail.com<br>
 
 
-## 🌐 Connect with me:
+# 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agniva-bhattacharyya/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agnivab9@gmail.com) 
 
@@ -31,6 +31,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
+
+### 🧠 Competitive Programming:
 
 # 📊 GitHub Stats:
 <p align="center">
