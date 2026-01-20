@@ -57,7 +57,15 @@
 
 ## 🐍 Contribution Snake
 
-
+<div align="center">
+  <a href="https://github.com/Platane/snk">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huxson-gh/huxson-gh/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huxson-gh/huxson-gh/output/github-snake.svg" />
+      <img width="100%" alt="GitHub Snake Contribution Animation" src="https://raw.githubusercontent.com/huxson-gh/huxson-gh/output/github-snake-dark.svg" />
+    </picture>
+  </a>
+</div>
 
 ---
 
