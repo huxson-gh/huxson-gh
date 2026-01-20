@@ -55,7 +55,11 @@
   </picture>
 </p>
 
+
 ---
-[![](https://visitcount.itsvg.in/api?id=huxson-gh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=huxson-gh&style=flat-square&color=green" alt="Profile Views">
+</div>
 
 
