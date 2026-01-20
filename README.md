@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Agniva Bhattacharyya</h1>
-<h3 align="center">A passionate Fullstack Developer and DevOps enthusiast</h3>
+<h3 align="center">A passionate Fullstack Developer and DevOps enthusiast</h3><br>
 
-# 💫 About Me:
-🔭 I’m currently working on Zenvyra (an E-commerce website)<br>🌱 I’m currently learning MERN stack<br>
+🔭 I’m currently working on **Zenvyra (an E-commerce website)** <br>
+🌱 **MERN Stack Developer** | Building Full-Stack Web Applications<br>
 
 
 ## 🌐 Socials:
