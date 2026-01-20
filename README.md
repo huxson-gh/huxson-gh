@@ -49,9 +49,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huxson-gh&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=huxson-gh&theme=github-dark&hide_border=true&area=true&bg_color=1a1a1a">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=huxson-gh&theme=github-light&hide_border=true&area=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=huxson-gh&theme=github-dark&hide_border=true&area=true&bg_color=1a1a1a" width="90%" alt="Contribution Graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=huxson-gh&theme=radical&hide_border=true&area=true&bg_color=1a1a1a">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=huxson-gh&theme=radical&hide_border=true&area=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=huxson-gh&theme=radical&hide_border=true&area=true&bg_color=1a1a1a" width="90%" alt="Contribution Graph" />
   </picture>
 </p>
 
