@@ -1,31 +1,53 @@
-name: Generate GitHub Snake
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
+
+name: Generate Snake
+
+# Controls when the action will run. This action runs every 6 hours.
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs daily
+      # every 6 hours
+    - cron: "0 */6 * * *"
+
+# This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
 
+# The sequence of runs in this workflow:
 jobs:
-  generate-snake:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
+    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
 
-      - name: Generate GitHub Snake SVG
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Vortex-16
-          outputs: |
-            dist/github-snake.svg?color_snake=#40a2ff&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
-            dist/github-snake-dark.svg?color_snake=#40a2ff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      - uses: actions/checkout@v2
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+    # Generates the snake  
+      - uses: Platane/snk@master
+        id: snake-gif
         with:
+          github_user_name: huxson-gh
+          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+     # show the status of the build. Makes it easier for debugging (if there's any issues).
+      - run: git status
+
+      # Push the changes
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          # the output branch we mentioned above
           target_branch: output
           build_dir: dist
         env:
