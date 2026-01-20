@@ -34,7 +34,7 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
 
 
-## 🧠 Competitive Programming:
+## 🧠 Coding:
 <div align="center">
   <a href="https://leetcode.com/u/agniva05/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white">
