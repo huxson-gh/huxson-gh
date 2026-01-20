@@ -67,7 +67,9 @@
   </a>
 </div>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=huxson-gh&theme=radical&show_icons=true&text_bold=false&rank_icon=percentile&hide_title=true)](...)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huxson-gh&theme=radical&show_icons=true&text_bold=false&rank_icon=percentile&hide_title=true" />
+</p>
 
 
 ---
