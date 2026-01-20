@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack Developer and DevOps enthusiast</h3><br>
 
 🔭 I’m currently working on **Zenvyra (an E-commerce website)** <br>
-🌱 **MERN Stack Developer** | Building Full-Stack Web Applications<br>
+🌱 I’m currently practicing **MERN Stack** | Building Full-Stack Web Applications<br>
 
 
 ## 🌐 Connect with me:
