@@ -44,9 +44,9 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huxson-gh&theme=radical&hide_border=false&include_all_commits=true&count_private=false" /><br/>
+  <img src="https://github-readme-stats-ashy-two-17.vercel.app/api?username=huxson-gh&theme=radical&hide_border=false&include_all_commits=true&count_private=false" /><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=huxson-gh&theme=radical&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huxson-gh&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats-ashy-two-17.vercel.app/api/top-langs/?username=huxson-gh&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=huxson-gh&theme=radical&hide_border=true&area=true&bg_color=1a1a1a">
@@ -68,7 +68,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huxson-gh&theme=radical&show_icons=true&text_bold=false&rank_icon=percentile&hide_title=true" />
+  <img src="https://github-readme-stats-ashy-two-17.vercel.app/api?username=huxson-gh&theme=radical&show_icons=true&text_bold=false&rank_icon=percentile&hide_title=true" />
 </p>
 
 
