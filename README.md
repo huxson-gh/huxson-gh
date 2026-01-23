@@ -48,7 +48,7 @@
   <!-- https://github-readme-stats.vercel.app -->
   <img src="https://github-readme-stats-ashy-two-17.vercel.app/api?username=huxson-gh&theme=radical&hide_border=false&include_all_commits=true&count_private=false" /><br/>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-xi-mocha.vercel.app?user=huxson-gh&theme=radical" alt="GitHub Streak" /></a> <br/>
-  <img src="https://github-readme-stats-ashy-two-17.vercel.app/api/top-langs/?username=huxson-gh&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huxson-gh&layout=compact&theme=radical&hide_border=true%22%20alt=%22Top%20Languages" />
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=huxson-gh&theme=radical&hide_border=true&area=true&bg_color=1a1a1a">
