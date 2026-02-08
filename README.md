@@ -34,6 +34,13 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
 
 
+## 📌 Featured Projects
+
+| Project | Description | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **🛍️ Zenvyra** | A complete **full-stack e-commerce** platform handling payments, cart management, and inventory. | `React` `Node` `Express` `MongoDB` |   |
+
+
 ## 🧠 Coding:
 <div align="center">
   <a href="https://leetcode.com/u/agniva05/" target="_blank">
