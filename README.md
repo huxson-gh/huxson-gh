@@ -6,9 +6,15 @@
 📫 How to reach me agnivab9@gmail.com<br>
 
 
+---
+
+
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agniva-bhattacharyya/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agnivab9@gmail.com) 
+
+
+---
 
 
 ## 💻 Languages and Tools:
@@ -34,11 +40,17 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
 
 
+---
+
+
 ## 📌 Featured Projects
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **🛍️ Zenvyra** | A complete **full-stack e-commerce** platform handling payments, cart management, and inventory. | `React` `Node` `Express` `MongoDB` |   |
+| **🛍️ Zenvyra** | A complete **full-stack e-commerce** platform handling payments, cart management, and inventory tracking. | `React` `Node` `Express` `MongoDB` | [Zenvyra]() |
+
+
+---
 
 
 ## 🧠 Coding:
@@ -47,6 +59,9 @@
     <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
 </div>
+
+
+---
 
 
 ## 📊 GitHub Stats:
@@ -63,6 +78,10 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=huxson-gh&theme=radical&hide_border=true&area=true&bg_color=1a1a1a" width="90%" alt="Contribution Graph" />
   </picture>
 </p>
+
+
+---
+
 
 ## 🐍 Contribution Snake
 
