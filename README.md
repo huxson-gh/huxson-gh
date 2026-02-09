@@ -47,7 +47,7 @@
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **🛍️ Zenvyra** | A complete **full-stack e-commerce** platform handling payments, cart management, and inventory tracking. | `React` `Node` `Express` `MongoDB` | [Zenvyra]() |
+| **🛍️ Zenvyra** | A complete **full-stack e-commerce** platform handling payments, cart management, and inventory tracking. | `React` `Node` `Express` `MongoDB` | [Zenvyra](https://zenvyra-ecommerce.vercel.app/) |
 
 
 ---
