@@ -48,7 +48,7 @@
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **🛍️ Zenvyra** | A complete **full-stack e-commerce** platform handling payments, cart management, and inventory tracking. | `React` `Node` `Express` `MongoDB` | [Zenvyra](https://zenvyra-ecommerce.vercel.app/) |
-
+| **💬 Talksy** | A real-time **full-stack chat application** enabling instant messaging, user presence, and seamless communication. | `React` `Node` `Express` `MongoDB` `Socket.io` | [Talksy]() |
 
 ---
 
