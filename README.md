@@ -45,6 +45,8 @@
 
 ## 📌 Featured Projects
 
+> 👉 *Check out my [Portfolio]() to explore live demos and projects.*
+
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **🛍️ Zenvyra** | A complete **full-stack e-commerce** platform handling payments, cart management, and inventory tracking. | `React` `Node` `Express` `MongoDB` | [Zenvyra](https://zenvyra-ecommerce.vercel.app/) |
