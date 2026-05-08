@@ -45,7 +45,7 @@
 
 ## 📌 Featured Projects
 
-> 👉 *Check out my [Portfolio]() to explore live demos and projects.*
+> 👉 *Check out my [Portfolio](https://agniva-bhattacharyya.onrender.com/) to explore live demos and projects.*
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
