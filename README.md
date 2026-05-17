@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agniva Bhattacharyya</h1>
 <h3 align="center">A passionate Fullstack Developer and DevOps enthusiast</h3><br>
 
-🔭 I’m currently working on **CodeForge**(a lightweight code editor) <br>
+🔭 I’m currently working on **CodeForge** (a lightweight code editor) <br>
 🌱 I’m currently practicing **MERN Stack** | Building Full-Stack Web Applications<br>
 📫 How to reach me agnivab9@gmail.com<br>
 
