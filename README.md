@@ -51,6 +51,7 @@
 | :--- | :--- | :--- | :--- |
 | **🛍️ Zenvyra** | A complete **full-stack e-commerce** platform handling payments, cart management, and inventory tracking. | `React` `Node` `Express` `MongoDB` | [Zenvyra](https://zenvyra-ecommerce.vercel.app/) |
 | **💬 Talksy** | A real-time **full-stack chat application** enabling instant messaging, user presence, and seamless communication. | `React` `Node` `Express` `MongoDB` `Socket.io` | [Talksy](https://talksy-chatapp.vercel.app) |
+| **💻 CodeForge** | A modern cloud-based IDE for coding, testing, debugging, and sharing projects seamlessly. | `React` `Node` `Express` `MongoDB` | [CodeForge](https://codeforge-ide.onrender.com/) |
 
 ---
 
@@ -59,6 +60,9 @@
 <div align="center">
   <a href="https://leetcode.com/u/agniva05/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white">
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/agniva05" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksForGeeks-Profile-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
   </a>
 </div>
 
